@@ -3,6 +3,8 @@
 #
 ### USER SETTING ###
 Dataset/
+Dataset.zip
+checkout/
 
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
